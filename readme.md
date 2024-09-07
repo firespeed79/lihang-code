@@ -69,6 +69,7 @@ https://github.com/hktxt/Learn-Statistical-Learning-Method
 
 代码整理和修改：机器学习初学者（公众号） ![gongzhong](images/gongzhong.jpg)
 
+https://www.cnblogs.com/limitlessun/p/8611103.html 《统计学习方法》(李航)读书笔记(完结) 
 
 知识星球：黄博的机器学习圈子![xingqiu](images/zhishixingqiu1.jpg)
 
